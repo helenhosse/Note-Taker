@@ -11,10 +11,6 @@ SO THAT I have quick access to their emails and GitHub profiles
 ## Installation
 I have provided links to both my Heroku and Github deployed links
 
-## Visual Representation
-
-Video of Walkthrough: https://drive.google.com/file/d/1NO0F1y0YeD0UA-u2Nut1ZIUFKsBN0L92/view
-
 ## The Result
 I have used HTML, CSS, Bootstrap, Node.js, express, heroku, JSON
 
