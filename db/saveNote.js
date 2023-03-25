@@ -33,6 +33,7 @@ class Save {
             throw new Error('Title and text are required!');
         }
         const newNote = { title, text, id: uuidv4() };
+        
         return this.retrieveNotes().then(notes => [...notes, newNote]).then(updatedNotes => this.write(updatedNotes)).then(() => newNote);
     }
 

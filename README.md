@@ -11,6 +11,10 @@ SO THAT I have quick access to their emails and GitHub profiles
 ## Installation
 I have provided links to both my Heroku and Github deployed links
 
+## Visual Representation
+
+<img src="![Alt text](public/assets/Screenshot%202023-03-24%20181825.png)" alt="photo of deployed note taker application>
+
 ## The Result
 I have used HTML, CSS, Bootstrap, Node.js, express, heroku, JSON
 

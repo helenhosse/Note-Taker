@@ -1,6 +1,9 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+    {"title":"Finish work project","text":"Need to finish the work project and present","id":"29ac8530-0b76-4759-b44c-57add01eead6"},
+    {"title":"Pay bill","text":"Remember to pay your chase bill ","id":"fe0f69fc-df7d-4bb8-814b-1e7c72565085"},
+    {"title":"Call grandma","text":"Grandma's birthday on Friday, remember to call","id":"0ee0c603-e825-4442-9f7f-431f14a3c0dd"},
+    {"title":"Check in with clients","text":"Important event ","id":"452144e3-615b-4e81-a926-44f7ff9776a0"},
+    {"title":"Client lunch on Thursday","text":"Important meeting","id":"32e1c544-c019-4722-97d2-5d7e360079f0"},
+    {"title":"Budget for next month","text":"Make sure to budget with new paycheck for next month","id":"0487b88a-33b3-45f3-971e-6bbdcd96d807"}
 ]
+
